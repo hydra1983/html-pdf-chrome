@@ -35,7 +35,7 @@
     "node": ">= 6"
   },
   "devDependencies": {
-    "@types/chai": "^4.0.1",
+    "@types/chai": "^4.0.9",
     "@types/chai-string": "^1.1.30",
     "@types/mocha": "^2.2.41",
     "@types/mock-fs": "^3.6.30",
